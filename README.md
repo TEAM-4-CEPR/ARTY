@@ -21,7 +21,9 @@ Features : - PCA (2d , 3d )
            - Heatmap
            - VolcanoPlot
            - Gene ontology
-           
+ 
+ Coming soon : GSEA , FCS analysis , automatic statistical analysis
+ 
 This tools can only be used with a GUI
 
 ------------------------------------------------
