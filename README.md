@@ -8,8 +8,6 @@ Draw : Cezard Adeline
 
 Affiliation: Research Center for Respiratory Diseases ; Team 4  (France)
 
-Credit : CEPR ILANGO G., CEPR CEZARD A.
-
 
 
 -----------------------------------------------
