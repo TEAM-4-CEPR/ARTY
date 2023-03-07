@@ -60,6 +60,7 @@ Invoke-WebRequest -Uri https://aka.ms/wslubuntu2004 -OutFile Ubuntu.appx -UseBas
 Add-AppxPackage .\Ubuntu.appx
 ```
 Then you have to install Xserver : https://sourceforge.net/projects/vcxsrv/
+
 In WSL2 type following command : 
 ```
 export DISPLAY=$(ip route|awk '/^default/{print $3}'):0.0
