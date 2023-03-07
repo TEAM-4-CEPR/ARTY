@@ -69,6 +69,10 @@ Then you have to install a linux conda with WSL2 : https://docs.conda.io/project
 
 Finally run install_dep.bash           
 
+```
+bash install_dep.bash
+```
+
 -------------------------------------------------
 # Diagram
 -------------------------------------------------
