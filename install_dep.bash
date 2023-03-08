@@ -1,7 +1,13 @@
 #!/bin/bash
+
+git clone https://github.com/wckdouglas/diffexpr.git &&
+
 conda config --add channels conda-forge &&
 
-conda create -y -n diffexpr python=3.7 && 
+conda create -y -n diffexpre python=3.7 && 
+
+conda activate diffexpre && 
+
 conda install -y -c conda-forge tzlocal &&
 
 conda install -y -c conda-forge rpy2 &&
@@ -17,17 +23,13 @@ conda install -y -c conda-forge codecov &&
 
 pip3 install --upgrade pip &&
 
-pip install goatools &&
 
-pip install mygene &&
+conda install -y -c anaconda dash-bio &&
 
-pip install plotly &&
+Rscript ./diffexpr/setup.R &&
 
+python ./diffexpr/setup.py install &&
 
-
-pip install packaging &&
-
-conda install  -y -c anaconda dash-bio &&
+pip install contextvars goatools mygene packaging
 
 
-pip install contextvars
