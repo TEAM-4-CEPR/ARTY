@@ -29,6 +29,7 @@ This tools can only be used with a GUI
 ------------------------------------------------
 # Prerequisite
 ------------------------------------------------
+- conda
 - python 3.7
 - tkinter
 - numpy
@@ -44,6 +45,7 @@ This tools can only be used with a GUI
 # Installation
 -------------------------------------------------
 ## Linux 
+install conda
 install all package with install_dep.bash
 
 ## Windows 
