@@ -51,7 +51,7 @@ install all package with install_dep.bash
 ## Windows 
 Because diffexpr is not available on windows, you will need to use WSL2.
 
-But before you have to activate to activate the bash in windows : https://people.montefiore.uliege.be/nvecoven/ci/files/tuto_bash/tuto_bash.html 
+But before you have to activate the bash in windows : https://people.montefiore.uliege.be/nvecoven/ci/files/tuto_bash/tuto_bash.html 
 /!\ Follow it till "Installation du système Bash " include. 
 You can install WSL2 using powershell and type following command : 
 
