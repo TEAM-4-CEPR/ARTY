@@ -9,6 +9,7 @@ Draw : Cezard Adeline
 Affiliation: Research Center for Respiratory Diseases ; Team 4  (France)
 
 
+ARTY v2 : https://github.com/TEAM-4-CEPR/ARTY-v2
 
 -----------------------------------------------
 # Analyse youR daTa Yourself (ARTY)
